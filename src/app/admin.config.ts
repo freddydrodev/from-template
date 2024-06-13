@@ -1,4 +1,4 @@
 export const config = {
-  name: "My App",
+  name: "My New App",
   color: "#f97316",
 };
